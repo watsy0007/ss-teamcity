@@ -9,7 +9,7 @@
 
 ## server
 
-参考[ariya/centos6-teamcity-server](https://hub.docker.com/r/ariya/centos6-teamcity-server/~/dockerfile/)
-配置db[setting up an External Database](https://confluence.jetbrains.com/display/TCD9/Installing+and+Configuring+the+TeamCity+Server)
+参考[ariya/centos6-teamcity-server](https://hub.docker.com/r/ariya/centos6-teamcity-server/~/dockerfile/)  
+配置db[setting up an External Database](https://confluence.jetbrains.com/display/TCD9/Installing+and+Configuring+the+TeamCity+Server)  
 
 ## agent
